@@ -1,0 +1,51 @@
+body{
+    /* background-image:url("https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); */
+    background-image:url("https://images.pexels.com/photos/5538346/pexels-photo-5538346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+p{
+    font: 200;
+}
+.navbar{
+    padding-top: 2.5%;
+    background:transparent;
+    text-align: center;
+}   
+.navbar-brand{
+    color:white;
+    font-size:x-large;
+    margin-left:1.5%;
+}
+.nav-link{
+    color:white;
+}
+.dropdown-item{
+    color:black;
+}
+.dropdown-item:hover{
+    color:orange;
+}
+.nav-link:hover{
+    color:orange;
+}
+.div1{
+    margin-left:2.5%; 
+    padding: 25px;
+}
+.btn{
+    color:white;
+    border-radius: 50px;
+    background-color:brown;
+}
+.carousel-head{
+    padding:25px;
+}
+.c{
+    background-color:brown;
+    background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fviterbigrad.usc.edu%2Facademic-services%2F&psig=AOvVaw1j3GuMH5-ype2ISnrPLWFJ&ust=1668946308843000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiOy9GbuvsCFQAAAAAdAAAAABAK");
+    color: white;
+    margin-left:30%; 
+    border-radius:25px;
+    width:40%;
+    height:35%;
+    text-align: center;
+}
