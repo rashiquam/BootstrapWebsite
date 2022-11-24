@@ -27,6 +27,9 @@ p{
 .nav-link:hover{
     color:orange;
 }
+.nav-link:focus{
+    color:orange
+}
 .div1{
     margin-left:2.5%; 
     padding: 25px;
